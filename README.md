@@ -1,7 +1,5 @@
 # cepi-2-ano
-<p align="center">
-  <img src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjxAbQaG79-ZsYJsYYtYdIzcyUvH1IJp9tQ&s"/>
-</p>
+<img width="716" height="238" alt="062b9c055534c346eb2ddebe8a9d4d56" src="https://github.com/user-attachments/assets/b3f3874c-8a2f-4438-bf7f-8fa6dba29dbf" />
 ## Bem vindo ao meu perfil do GitHub ≽^•⩊•^≼
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
