@@ -1,8 +1,7 @@
 # cepi-2-ano
 <img width="900" height="238" alt="062b9c055534c346eb2ddebe8a9d4d56" src="https://github.com/user-attachments/assets/b3f3874c-8a2f-4438-bf7f-8fa6dba29dbf" />
-<img width="900" height="498" alt="coquette-aesthetic" src="https://github.com/user-attachments/assets/13f8f988-41cc-4fb7-9dc9-a2a2ed119105" />
+<img width="900" height="82" alt="pink-divider" src="https://github.com/user-attachments/assets/9c30bd8b-f335-4c5f-b830-fa214acdfc10" />
 
-- Bem vindo ao meu perfil do GitHub ≽^•⩊•^≼
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
