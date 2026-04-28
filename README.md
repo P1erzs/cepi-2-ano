@@ -12,7 +12,7 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
-   <img width="900" height="14" alt="star-divider" src="https://github.com/user-attachments/assets/35921533-06cb-45a9-ba29-5669f4b89eba" />
+   <img width="900" height="27" alt="star-divider" src="https://github.com/user-attachments/assets/35921533-06cb-45a9-ba29-5669f4b89eba" />
 
  ![hippo](https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif)
 
