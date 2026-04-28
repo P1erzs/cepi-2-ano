@@ -1,5 +1,7 @@
 # cepi-2-ano
-# Olá, me chamo Ana Luiza! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Oiee! (˶ˆᗜˆ˵)&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ## Bem vindo ao meu perfil do GitHub ≽^•⩊•^≼
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
