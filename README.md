@@ -11,7 +11,7 @@
 - 📫 Como entrar em contato comigo: [Meu Email!](mailto:analuizarodriguesglinke@gmai.com)
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: ...
-
+<p> </p>
 
 <img width="900" height="280" alt="cute-pink" src="https://github.com/user-attachments/assets/b555d1ef-6385-4c7a-a6ee-3c87cf8a2ab5" />
 
