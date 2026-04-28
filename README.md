@@ -1,6 +1,6 @@
 # cepi-2-ano
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjxAbQaG79-ZsYJsYYtYdIzcyUvH1IJp9tQ&s text=Oiee! &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjxAbQaG79-ZsYJsYYtYdIzcyUvH1IJp9tQ&s"/>
 </p>
 ## Bem vindo ao meu perfil do GitHub ≽^•⩊•^≼
 - 🔭 Atualmente estou trabalhando em ...
