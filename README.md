@@ -11,7 +11,8 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-  
+  <img width="149" height="14" alt="star-divider" src="https://github.com/user-attachments/assets/35921533-06cb-45a9-ba29-5669f4b89eba" />
+
  ![hippo](https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif)
 
 <img width="2000" height="2000" alt="octocat-1777381510715" src="https://github.com/user-attachments/assets/c488b88e-4700-40f8-aeb9-ca64e45421b7" />
