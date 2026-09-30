@@ -12,8 +12,8 @@
 - 🍰
 
 
+<img width="400" height="204" alt="image" src="https://github.com/user-attachments/assets/a635e553-b755-471f-95c2-049b9a18e751" />
 
-<img width="400" height="204" alt="image" src="https://github.com/user-attachments/assets/ff54b940-a434-4273-a95d-82c6047109c8" />
 
 
 <img width="900" height="82" alt="pink-divider" src="https://github.com/user-attachments/assets/03363d2b-1500-42df-b90b-b882bcb74cfb" />
