@@ -5,10 +5,10 @@
 
 ## Sobre mim!!
 - 🎼 Me chamo Ana Luiza R. Glinke
-- 🌸 Atualmente estou estudando no CEPI Osvaldo da Costa Meireles
+- 🎹 Atualmente estou estudando no CEPI Osvaldo da Costa Meireles
 - 🌱 eu ja fiz coisas legais 
-- 📫 Como entrar em contato comigo: analuizarodriguesglinke@gmai.com
-- 💐 Pronomes: Ela/Dela
+- 🎬 Como entrar em contato comigo: analuizarodriguesglinke@gmai.com
+- ♟️ Pronomes: Ela/Dela
 
 
 
