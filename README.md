@@ -4,12 +4,12 @@
 <img width="900" height="82" alt="pink-divider" src="https://github.com/user-attachments/assets/03363d2b-1500-42df-b90b-b882bcb74cfb" />
 
 ## Sobre mim!!
-- 🎀 Me chamo Ana Luiza R. Glinke
+- 🎼 Me chamo Ana Luiza R. Glinke
 - 🌸 Atualmente estou estudando no CEPI Osvaldo da Costa Meireles
 - 🌱 eu ja fiz coisas legais 
 - 📫 Como entrar em contato comigo: analuizarodriguesglinke@gmai.com
 - 💐 Pronomes: Ela/Dela
-- 🍰
+
 
 
 <img width="900" height="270" alt="image" src="https://c.tenor.com/P7m-KCmeKvEAAAAC/tenor.gif" />
