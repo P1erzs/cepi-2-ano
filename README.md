@@ -4,16 +4,9 @@
 <img width="900" height="82" alt="pink-divider" src="https://github.com/user-attachments/assets/9c30bd8b-f335-4c5f-b830-fa214acdfc10" />
 
 ## Sobre mim!!
-┊         ┊       ┊   ┊    ┊        ┊
-┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
-┊         ┊       ┊   ⋆
-┊         ┊       ★⋆
-┊ ◦
-★⋆      ┊ .  ˚
-           ˚★
 - 🎀 Me chamo Ana Luiza R. Glinke
 - 🌸 Atualmente estou estudando no CEPI Osvaldo da Costa Meireles
-- 🌱 
+- 🌱 eu ja fiz coisas legais 
 - 📫 Como entrar em contato comigo: analuizarodriguesglinke@gmai.com
 - 💐 Pronomes: Ela/Dela
 - 🍰
