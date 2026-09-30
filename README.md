@@ -4,9 +4,9 @@
 <img width="900" height="82" alt="pink-divider" src="https://github.com/user-attachments/assets/9c30bd8b-f335-4c5f-b830-fa214acdfc10" />
 
 ## Sobre mim!!
-- 🌸 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 🌷 Estou procurando colaborar em ...
+- 🎀 Me chamo Ana Luiza R. Glinke
+- 🌸 Atualmente estou estudando no CEPI Osvaldo da Costa Meireles
+- 🌱 Atualmente estou aprendendo 
 - 📫 Como entrar em contato comigo: [Meu Email!](mailto:analuizarodriguesglinke@gmai.com)
 - 💐 Pronomes: Ela/Dela
 
